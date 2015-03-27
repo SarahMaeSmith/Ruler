@@ -1,0 +1,11 @@
+#     Converts inches to centimeters
+
+def main():
+    print "This program converts inches to centimeters."
+    print "(1 inch = 2.54 centimeters)"
+    print
+    inches = input("Enter length in inches: ")
+    centimeters = 2.54 * inches
+    print "That is", centimeters, "centimeters."
+
+main()
