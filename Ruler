@@ -1,4 +1,4 @@
-#     Converts inches to centimeters
+#     Convert inches to centimeters
 
 def main():
     print "This program converts inches to centimeters."
